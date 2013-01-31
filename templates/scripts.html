@@ -1,0 +1,10 @@
+<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-58e8dfdf-1722-53e-b809-3ef6cb9ea9d2"});
+  /*** 
+    TODO: Add a setting to stop parent URL being passed if the user requires 
+  */
+  var windowUrl = (window.location != window.parent.location) ? document.referrer: document.location; // get the parent URL
+  $('span[class^="st_"]').html('').removeAttr('st_processed').attr('st_url',windowUrl); // modify the sharethis attributes
+  stButtons.makeButtons(); // Renew the sharethis buttons
+</script>
