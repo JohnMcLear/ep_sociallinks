@@ -1,7 +1,7 @@
 {
   "name": "ep_sociallinks",
   "description": "Social links for Etherpad Lite",
-  "homepage": "https://github.com/johnyma22/ep_sociallinks",
+  "homepage": "https://github.com/johnmclear/ep_sociallinks",
   "keywords": [
     "twitter",
     "facebook",
@@ -9,14 +9,14 @@
     "social"
   ],
   "author": {
-    "name": "John McLEar",
+    "name": "John McLear",
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnyma22/ep_sociallinks.git"
+    "url": "git://github.com/johnmclear/ep_sociallinks.git"
   },
   "dependencies": {},
   "devDependencies": {},
