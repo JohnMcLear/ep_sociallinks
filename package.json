@@ -29,5 +29,9 @@
   "_from": "ep_sociallinks",
   "dist": {
     "shasum": "7c28f9e80b63b3cfba78edf791ad821acfdff5d1"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
   }
 }
